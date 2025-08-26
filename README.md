@@ -1,3 +1,9 @@
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.0.3-red?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.1-orange?style=for-the-badge&logo=matplotlib)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.12.2-purple?style=for-the-badge&logo=seaborn)](https://seaborn.pydata.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-1.10.1-green?style=for-the-badge&logo=scipy)](https://scipy.org/)
+
 Este projeto, desenvolvido como parte de uma aula de (EDA - Exploratory Data Analysis) na FIAP, oferece uma EDA do catálogo musical da banda Rolling Stones.
 
 # Objetivo e motivação:
